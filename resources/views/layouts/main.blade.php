@@ -14,7 +14,7 @@
     {{-- CSS --}}
     <link rel="stylesheet" href="/css/style.css">
 
-    <title>WPU Blog | {{ $title }}</title>
+    <title>Larav Blog | {{ $title }}</title>
   </head>
   <body>
    
