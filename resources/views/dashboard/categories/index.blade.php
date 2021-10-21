@@ -45,3 +45,5 @@
   </table>
 </div>
 @endsection
+
+@include('partials.footer')

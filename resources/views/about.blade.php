@@ -6,3 +6,5 @@
 <h3 class="text-center">{{ $name }}</h3>
 <p class="text-center">{{ $email }}</p>
 @endsection
+
+@include('partials.footer')

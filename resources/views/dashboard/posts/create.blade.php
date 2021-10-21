@@ -90,3 +90,5 @@
     }
   </script>
 @endsection
+
+@include('partials.footer')
